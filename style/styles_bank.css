@@ -375,6 +375,7 @@ body {
   }
   .form-group {
     margin-bottom: 15px;
+    margin: 0 auto;
   }
   .notice {
     color: #ff0000;
